@@ -5,8 +5,9 @@ Welcome to the **Coffee Shop Sales Analysis** repository! This project features 
 
 _**Live Interactive Dashboard**_
 
-<p/: align = "center"
-<img width="800" height="409" alt="Dashboard Preview" src="https://github.com/user-attachments/assets/a8381354-c96f-41d6-9bd6-d886500d9354" />
+<p align= "center">
+<img width="800" height="409" alt="Dashboard Preview" src="https://github.com/user-attachments/assets/a8381354-c96f-41d6-9bd6-d886500d9354" width="800">
+</p>
 
 
  You can view and interact with the full dashboard online via Tableau Public:
@@ -28,9 +29,7 @@ _**Project Structure**_
 │   └── Coffee Shop Sales Dataset.xlsx    # Raw sales dataset (Excel)
 ├── dashboards/
 │   └── coffee_shop_dashboard.twbx        # Tableau Packaged Workbook file
-├── screenshots/
-│   ├── dashboard_preview.gif            # Preview screenshot of Dashboard 1
-│   └── product_insights.png             # Preview screenshot of Dashboard 2
+├── dashboard_preview.gif                 # Preview of Dashboard 
 ├── .gitignore                            # Excludes temporary & system files
 ├── LICENSE                               # MIT License
 └── README.md                             # Project documentation
